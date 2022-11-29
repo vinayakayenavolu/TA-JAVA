@@ -1,0 +1,1 @@
+Hai this is the example of posting into the git hub account in ehich it goes through the git bash cmds
